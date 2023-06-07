@@ -15,6 +15,7 @@ The purpose of this PWA (Progressive Web Application) is to be able to create no
 ## Usage
 
 To use this application, you can access it from Heroku here:
+[Heroku](https://kaylas-text-editor.herokuapp.com/)
 
 To access locally:
 You will need to install the necessary dependencies by opening the root directory in your CLI and run `npm i`
